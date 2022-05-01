@@ -23,7 +23,7 @@ const Footer = () => {
           </Circle>
         </HStack>
         <Spacer />
-        <Text fontSize={"sm"}>Mobile app</Text>
+        <Text fontsizie={'sm'}>Mobile app</Text>
         <Circle size="40px" border={"1px solid gray"} color="white">
           <BsApple color="#222151" />
         </Circle>
